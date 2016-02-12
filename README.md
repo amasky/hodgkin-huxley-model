@@ -4,8 +4,8 @@
 
 ## Examples  
 * Membrane current and potential  
-<img src="/examples/1current.png" width="300px">
-![membrane potential](/examples/1potential.png =300x)
+<img src="/examples/1current.png" width="400">
+<img src="/examples/1potential.png" width="400">
 
 ## Dependencies
 Python 2 or 3, jupyter, matplotlib, numpy
