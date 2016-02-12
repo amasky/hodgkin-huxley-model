@@ -4,7 +4,7 @@
 
 ## Examples  
 * Membrane current and potential  
-<img src="/examples/1current.png" width="300">
+<img src="/examples/1current.png" width="300px">
 ![membrane potential](/examples/1potential.png =300x)
 
 ## Dependencies
