@@ -3,10 +3,15 @@
 * http://nbviewer.jupyter.org/github/masaki-y/Hodgkin-Huxley-Model/blob/master/Hodgkin-Huxley-Model.ipynb
 
 ## Examples  
-* Membrane current and potential  
+* Membrane current, potential, ion channel activation  
 <img src="/examples/1current.png" width="500">  
 <img src="/examples/1potential.png" width="500">  
 <img src="/examples/1actv.png" width="500">  
+
+* Electrical Bursting
+
+* Noise Resistance
+
 
 ## Dependencies
 Python 2 or 3, jupyter, matplotlib, numpy
