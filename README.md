@@ -1,4 +1,4 @@
-# Hodgkin-Huxley-Model
+# Hodgkin-Huxley-Model [Hodgkin & Huxley]
 
 * http://nbviewer.jupyter.org/github/masaki-y/Hodgkin-Huxley-Model/blob/master/Hodgkin-Huxley-Model.ipynb
 
@@ -25,3 +25,6 @@ Open a Jupyter's session in your browser.
 ➜  jupyter notebook Hodgkin-Huxley-Model.ipynb
 ```
 Then select the `Run All` from the `cell` in the top menu.  
+
+## Reference
+[Alan Lloyd Hodgkin, Andrew Fielding Huxley] A quantitative description of membrane current and its application to conduction and excitation in nerve. https:// www.ncbi.nlm.nih.gov/pmc/articles/PMC1392413/. 1952. 
