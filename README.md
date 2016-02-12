@@ -4,8 +4,9 @@
 
 ## Examples  
 * Membrane current and potential  
-<img src="/examples/1current.png" width="500">  
-<img src="/examples/1potential.png" width="500">  
+<img src="/examples/1current.png" width="400">  
+<img src="/examples/1potential.png" width="400">  
+<img src="/examples/1potential.png" width="400">  
 
 ## Dependencies
 Python 2 or 3, jupyter, matplotlib, numpy
