@@ -1,4 +1,4 @@
-# Hodgkin-Huxley-Model 
+# Hodgkin Huxley Model 
 A neuron activation model [Hodgkin & Huxley, 1952]  
 * http://nbviewer.jupyter.org/github/masaki-y/Hodgkin-Huxley-Model/blob/master/Hodgkin-Huxley-Model.ipynb
 
