@@ -4,8 +4,8 @@
 
 ## Examples  
 * Membrane current and potential  
-![membrane current](/examples/1current.png)
-![membrane potential](/examples/1potential.png)
+![membrane current](/examples/1current.png =300x)
+![membrane potential](/examples/1potential.png =300x)
 
 ## Dependencies
 Python 2 or 3, jupyter, matplotlib, numpy
