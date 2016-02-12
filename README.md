@@ -8,11 +8,11 @@
 <img src="/examples/1potential.png" width="450">  
 <img src="/examples/1actv.png" width="450">  
 
-* Electrical Bursting
+* Electrical Bursting  
 <img src="/examples/2current.png" width="450">  
 <img src="/examples/2potential.png" width="450">  
 
-* Noise Resistance
+* Noise Resistance  
 <img src="/examples/7current.png" width="450">  
 <img src="/examples/7potential.png" width="450">  
 
