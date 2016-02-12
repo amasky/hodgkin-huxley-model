@@ -1,5 +1,5 @@
-# Hodgkin-Huxley-Model [Hodgkin & Huxley]
-
+# Hodgkin-Huxley-Model 
+A neuron activation model [Hodgkin & Huxley, 1952]  
 * http://nbviewer.jupyter.org/github/masaki-y/Hodgkin-Huxley-Model/blob/master/Hodgkin-Huxley-Model.ipynb
 
 ## Examples  
@@ -27,4 +27,4 @@ Open a Jupyter's session in your browser.
 Then select the `Run All` from the `cell` in the top menu.  
 
 ## Reference
-[Alan Lloyd Hodgkin, Andrew Fielding Huxley] A quantitative description of membrane current and its application to conduction and excitation in nerve. https:// www.ncbi.nlm.nih.gov/pmc/articles/PMC1392413/. 1952. 
+[Alan Lloyd Hodgkin, Andrew Fielding Huxley] A quantitative description of membrane current and its application to conduction and excitation in nerve. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392413/. 1952. 
