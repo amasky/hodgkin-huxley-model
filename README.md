@@ -1,6 +1,6 @@
 # Hodgkin Huxley Model 
 A neuron activation model [Hodgkin & Huxley, 1952]  
-* http://nbviewer.jupyter.org/github/masaki-y/hodgkin-huxley-model/blob/master/hodgkin-huxley-model.ipynb
+* nbviewer.jupyter.org/github/amasky/hodgkin-huxley-model/blob/master/hodgkin-huxley-model.ipynb
 
 ## Examples  
 * Membrane current, potential, ion channel activation  
